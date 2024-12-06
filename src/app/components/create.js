@@ -1,7 +1,7 @@
 const create=()=>{
   return(
       <div className="container 
-       md:containe w-full ">
+       md:container w-full ">
         <form >
         <h2 className="text-2xl font-bold text-gray-800 text-center mb-6">
             Create A Free Account
