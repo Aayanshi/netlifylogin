@@ -41,7 +41,7 @@ const Create = () => {
             required
           />
           <label htmlFor="terms" className="text-sm text-cyan-500">
-            I Agree To Tidio's{' '}
+            I Agree To Tidio&apos;s{' '}
             <a href="#" className="text-cyan-500 hover:underline">
               Terms & Conditions
             </a>{' '}
